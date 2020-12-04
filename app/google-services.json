@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224621709620",
+    "project_id": "sign-in-app-becae",
+    "storage_bucket": "sign-in-app-becae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224621709620:android:69538fd58c98882c80fd61",
+        "android_client_info": {
+          "package_name": "com.example.signinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224621709620-m321pb3fcmv2o0a6lujkn4nu0si1abfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signinapp",
+            "certificate_hash": "e29bf91735225b0f10ac197c8f9af0a35f5d317c"
+          }
+        },
+        {
+          "client_id": "224621709620-ptngvc00r4k80cqco3b85rn86865qsqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3_rWwCuWB6Y1sl_MjuABzYJWkoshgiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224621709620-ptngvc00r4k80cqco3b85rn86865qsqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
